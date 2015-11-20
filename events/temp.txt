@@ -1,0 +1,12 @@
+Accept:application/json, text/javascript, */*; q=0.01
+Accept-Encoding:gzip, deflate
+Accept-Language:en-CA,en;q=0.8,zh-CN;q=0.6,zh;q=0.4
+Connection:keep-alive
+Content-Length:32
+Content-Type:application/x-www-form-urlencoded; charset=UTF-8
+Cookie:imooc_uuid=f36c9ff9-50a3-4351-b1a5-1d1e2eeedbdb; loginstate=1; apsid=A0OGEyYmQ1MzA1MTk5NzdiNWRkYjE4M2U1MDIyMzMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMjA4Mzg2OAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB3YnkxMDMxOTQ1NEBnbWFpbC5jb20AAAAAAAAAAAAAAGY4YmMxMmFjODQ4NzIwNzBhYmJkY2I1MTcyOTg0NWYxI9CKVSPQilU%3DND; PHPSESSID=chi5l2918582r1l9uoe440ivj6; Hm_lvt_f0cfcccd7b1393990c78efdeebff3968=1441375406,1442255045,1442426426; Hm_lpvt_f0cfcccd7b1393990c78efdeebff3968=1442426448; cvde=55f9ae382b665-9
+Host:www.imooc.com
+Origin:http://www.imooc.com
+Referer:http://www.imooc.com/video/7557
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+X-Requested-With:XMLHttpRequest
