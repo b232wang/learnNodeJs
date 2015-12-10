@@ -1,0 +1,317 @@
+fetch https://cnodejs.org/topic/5665002f1c64fabd06fd8c7a successful
+200
+fetch https://cnodejs.org/topic/5665b4745af0e6ab3bf1a11b successful
+200
+fetch https://cnodejs.org/topic/5668e0a55af0e6ab3bf1a1d8 successful
+200
+fetch https://cnodejs.org/topic/565c4473d0bc14ae279399fe successful
+200
+fetch https://cnodejs.org/topic/55c5f41139273b92193362fb successful
+200
+fetch https://cnodejs.org/topic/5668eac64a8dd3713ba43656 successful
+200
+fetch https://cnodejs.org/topic/566161fd966aefd958de7d7e successful
+200
+fetch https://cnodejs.org/topic/5668e3ce9749508e3ba6a575 successful
+200
+fetch https://cnodejs.org/topic/56682f9e9749508e3ba6a566 successful
+200
+fetch https://cnodejs.org/topic/561e789e30e69d1b2ad8b27f successful
+200
+fetch https://cnodejs.org/topic/56682e9e24b586c83b63fc32 successful
+200
+fetch https://cnodejs.org/topic/56680d1f9749508e3ba6a561 successful
+200
+fetch https://cnodejs.org/topic/5666a4dd24b586c83b63fbe3 successful
+200
+fetch https://cnodejs.org/topic/5653d1dd1e418bff23ae9358 successful
+200
+fetch https://cnodejs.org/topic/5667b9369749508e3ba6a548 successful
+200
+fetch https://cnodejs.org/topic/5667e36c24b586c83b63fc20 successful
+200
+fetch https://cnodejs.org/topic/523513d3101e57452141d0b1 successful
+200
+fetch https://cnodejs.org/topic/56671f125af0e6ab3bf1a178 successful
+200
+fetch https://cnodejs.org/topic/566848cf5af0e6ab3bf1a1d2 successful
+200
+fetch https://cnodejs.org/topic/54ff9e41c174939675489813 successful
+200
+fetch https://cnodejs.org/topic/566811ca24b586c83b63fc2b successful
+200
+fetch https://cnodejs.org/topic/5655fbfcf811b9734d550687 successful
+200
+fetch https://cnodejs.org/topic/566830215af0e6ab3bf1a1cd successful
+200
+fetch https://cnodejs.org/topic/566828a49749508e3ba6a565 successful
+200
+fetch https://cnodejs.org/topic/56645843966aefd958de7e12 successful
+200
+fetch https://cnodejs.org/topic/5667f2b75af0e6ab3bf1a1b9 successful
+200
+fetch https://cnodejs.org/topic/5514c33de26684ed7ff21c22 successful
+200
+fetch https://cnodejs.org/topic/565c6973c4fa25cb27cc3c81 successful
+200
+fetch https://cnodejs.org/topic/561dcd8a4928c5872abc18a0 successful
+200
+fetch https://cnodejs.org/topic/56612c5728d9d1ba58c3a2e8 successful
+200
+fetch https://cnodejs.org/topic/5667d9af4a8dd3713ba4362d successful
+200
+fetch https://cnodejs.org/topic/5665425a374362a006a1a597 successful
+200
+fetch https://cnodejs.org/topic/56485dd8b68278b07f982804 successful
+200
+fetch https://cnodejs.org/topic/4f16442ccae1f4aa27001071 successful
+200
+fetch https://cnodejs.org/topic/55815f28395a0c1812f18257 successful
+200
+fetch https://cnodejs.org/topic/5463f6e872f405c829029f7e successful
+200
+fetch https://cnodejs.org/topic/566677ca4a8dd3713ba435d7 successful
+200
+fetch https://cnodejs.org/topic/5667c7d45af0e6ab3bf1a19d successful
+200
+fetch https://cnodejs.org/topic/56668c979749508e3ba6a514 successful
+200
+fetch https://cnodejs.org/topic/4faf65852e8fb5bc65113403 successful
+200
+author: soliury
+      
+author: coolicer
+      
+author: forrest
+      
+author: i5ting
+      
+author: ilanceli
+      
+author: null
+author: sofish
+      
+author: i5ting
+      
+author: petersun
+      
+author: idreamshen
+      
+author: 2yuri
+      
+author: leapon
+      
+author: i5ting
+      
+author: zhangbeiHR
+      
+author: TimothyJin
+      
+author: i5ting
+      
+author: ggaaooppeenngg
+      
+author: i5ting
+      
+author: null
+author: fising
+      
+author: reverland
+      
+author: flyingcodes
+      
+author: null
+author: null
+author: i5ting
+      
+author: wandergis
+      
+author: ilanceli
+      
+author: SoaringTiger
+      
+author: simdm
+      
+author: i5ting
+      
+author: yuyang041060120
+      
+author: Hanggi
+      
+author: sqrthree
+      
+author: anonymous
+      
+author: hwoarangzk
+      
+author: think2011
+      
+author: luicfer
+      
+author: null
+author: klesh
+      
+author: jin52yang
+      
+final: 
+[ { title: '置顶\n\n\n\n        ［ 北京］12月13日 NodeParty@零壹时光，报名从速，Ticket Free !',
+    href: 'https://cnodejs.org/topic/5665002f1c64fabd06fd8c7a',
+    comment1: '赞一个\nFrom Noder',
+    author1: 'soliury\n      ' },
+  { title: 'node-weixin开源微信SDK项目',
+    href: 'https://cnodejs.org/topic/5665b4745af0e6ab3bf1a11b',
+    comment1: '不错，很全面啊。',
+    author1: 'coolicer\n      ' },
+  { title: '精华\n\n\n\n        需要大家帮忙一起完成《一起学koa》',
+    href: 'https://cnodejs.org/topic/5668e0a55af0e6ab3bf1a1d8',
+    comment1: '天天学习，共同进步~~·',
+    author1: 'forrest\n      ' },
+  { title: '置顶\n\n\n\n        用Vue.js编写了cnodejs.org的h5客户端(webapp)',
+    href: 'https://cnodejs.org/topic/565c4473d0bc14ae279399fe',
+    comment1: 'vue还不错的，看好',
+    author1: 'i5ting\n      ' },
+  { title: '置顶\n\n\n\n        CNode客户端专题',
+    href: 'https://cnodejs.org/topic/55c5f41139273b92193362fb',
+    comment1: '+1',
+    author1: 'ilanceli\n      ' },
+  { title: '【上海】Taguage 诚聘Web开发工程师',
+    href: 'https://cnodejs.org/topic/5668eac64a8dd3713ba43656',
+    comment1: '',
+    author1: null },
+  { title: '[上海] 饿了么（ele.me）招聘 Node.js 程序员 2名',
+    href: 'https://cnodejs.org/topic/566161fd966aefd958de7d7e',
+    comment1: '来一起工作 :,)\n目前招两名，如果能招到一位「可以建立一支 Node 团队」的同学那就更好了，我们后面会有很多空间可以供大家发挥',
+    author1: 'sofish\n      ' },
+  { title: 'cnodejs服务器用是的什么系统？',
+    href: 'https://cnodejs.org/topic/5668e3ce9749508e3ba6a575',
+    comment1: 'linux',
+    author1: 'i5ting\n      ' },
+  { title: '国内技术圈的斯德哥尔摩综合症',
+    href: 'https://cnodejs.org/topic/56682f9e9749508e3ba6a566',
+    comment1: '人在江湖身不由己…这个时候就要考验团队的’情怀’了',
+    author1: 'petersun\n      ' },
+  { title: '精华\n\n\n\n        消息系统设计与实现「上篇」',
+    href: 'https://cnodejs.org/topic/561e789e30e69d1b2ad8b27f',
+    comment1: '👍',
+    author1: 'idreamshen\n      ' },
+  { title: '2016 新年白皮书',
+    href: 'https://cnodejs.org/topic/56682e9e24b586c83b63fc32',
+    comment1: '好的，知道了。',
+    author1: '2yuri\n      ' },
+  { title: '【北京】跪求node.js程序猿1名— 寻找最有趣的你！！！急聘',
+    href: 'https://cnodejs.org/topic/56680d1f9749508e3ba6a561',
+    comment1: '有趣',
+    author1: 'leapon\n      ' },
+  { title: '堆空间不足。。。',
+    href: 'https://cnodejs.org/topic/5666a4dd24b586c83b63fbe3',
+    comment1: '出现死循环了？',
+    author1: 'i5ting\n      ' },
+  { title: '诚邀PHP node.js小伙伴加入',
+    href: 'https://cnodejs.org/topic/5653d1dd1e418bff23ae9358',
+    comment1: '职位要求：\n1、计算机及相关专业背景，本科以上学历。\n2、精通PHP，熟悉MySQL，有Memcache、Redis等Nosql的使用经验。\n3、精通javascript、nodejs。熟悉Html5、CSS。\n4、能熟练使用Linux。\n5、有较强的算法设计、理解和实现能力。\n6、积极主动，能承受一定压力，有自学能力和独立解决问题的能力。\n7、有高度的责任心，能对计划负责。\n8、有较强的书面和口头的沟通能力，能适应团队合作。\n职位职责：\n1、负责公司平台网站开发。\n2、负责游戏服务端数据运营平台开发。\n上海掌贝网络科技有限公司\n联系人：王小姐\n联系电话：13816355044\n公司地址：上海浦东晨晖路258号iDream张江科创中心C121\n*有意者可电话联系，电话联系时请告知是通过CNode.js专业中文社区得知\n*有意者可留言，留下你的联系方式，我们会第一时间联系你的\n*薪资面议',
+    author1: 'zhangbeiHR\n      ' },
+  { title: '使用pm2时，schedule模块下的任务会每个进程执行一次',
+    href: 'https://cnodejs.org/topic/5667b9369749508e3ba6a548',
+    comment1: '为什么不是定时任务跑脚本？',
+    author1: 'TimothyJin\n      ' },
+  { title: '大家都是怎么入Nodejs门的？',
+    href: 'https://cnodejs.org/topic/5667e36c24b586c83b63fc20',
+    comment1: 'express-generator\nkoa-generator',
+    author1: 'i5ting\n      ' },
+  { title: '通过学习【一起学node.js】自己摸索的一个实战练习',
+    href: 'https://cnodejs.org/topic/523513d3101e57452141d0b1',
+    comment1: '不错~',
+    author1: 'ggaaooppeenngg\n      ' },
+  { title: '传说workitle是Nodejs开发的，是全部么？还是部分业务',
+    href: 'https://cnodejs.org/topic/56671f125af0e6ab3bf1a178',
+    comment1: '只要异步处理的好就可以的',
+    author1: 'i5ting\n      ' },
+  { title: '请教，gulp怎么监听新建和删除文件',
+    href: 'https://cnodejs.org/topic/566848cf5af0e6ab3bf1a1d2',
+    comment1: '',
+    author1: null },
+  { title: '国内上谷歌方法总结',
+    href: 'https://cnodejs.org/topic/54ff9e41c174939675489813',
+    comment1: '居然没有我大 www.886404.com',
+    author1: 'fising\n      ' },
+  { title: '分享一个下午做的avalon-webpack-spa,算是avalon工程化的一个示例吧',
+    href: 'https://cnodejs.org/topic/566811ca24b586c83b63fc2b',
+    comment1: '只想说，司徒大神兼容IE6+真是很屌',
+    author1: 'reverland\n      ' },
+  { title: '【冬季福利】部署听云Server基础版\b，领取卫衣!\b 双肩包！',
+    href: 'https://cnodejs.org/topic/5655fbfcf811b9734d550687',
+    comment1: '人人有份？“须有3日持续访问”？这个如何解释？3日同一个IP都可以？',
+    author1: 'flyingcodes\n      ' },
+  { title: '敏捷开发中容易混淆的概念：点数',
+    href: 'https://cnodejs.org/topic/566830215af0e6ab3bf1a1cd',
+    comment1: '',
+    author1: null },
+  { title: 'log4js打印不出错误',
+    href: 'https://cnodejs.org/topic/566828a49749508e3ba6a565',
+    comment1: '',
+    author1: null },
+  { title: 'mongodb需要设置用户名和密码吗？为什么express给的例子都是没有密码的？express怎连接设置密码的monggdb',
+    href: 'https://cnodejs.org/topic/56645843966aefd958de7e12',
+    comment1: '可以不加auth',
+    author1: 'i5ting\n      ' },
+  { title: '闭包之间怎么引用模块呢?',
+    href: 'https://cnodejs.org/topic/5667f2b75af0e6ab3bf1a1b9',
+    comment1: '你把modA return 出来啊',
+    author1: 'wandergis\n      ' },
+  { title: '精华\n\n\n\n        ionic之基本布局',
+    href: 'https://cnodejs.org/topic/5514c33de26684ed7ff21c22',
+    comment1: '+1',
+    author1: 'ilanceli\n      ' },
+  { title: 'js 中文字符串判断（根据 unicode 编码区间判断）',
+    href: 'https://cnodejs.org/topic/565c6973c4fa25cb27cc3c81',
+    comment1: '能否增加简繁体的判断？\nisTradionalChinese\n简繁字体混合判断？',
+    author1: 'SoaringTiger\n      ' },
+  { title: '[ 深圳 ] Nodejs / Mongodb , 手机App后端API开发 , 8-12K, 老外初创公司',
+    href: 'https://cnodejs.org/topic/561dcd8a4928c5872abc18a0',
+    comment1: '在哪',
+    author1: 'simdm\n      ' },
+  { title: '[北京]创业团队(已获首轮融资)  [15K-35K]招Node.JS工程师 与 前端工程师',
+    href: 'https://cnodejs.org/topic/56612c5728d9d1ba58c3a2e8',
+    comment1: '你找的这是全栈工程师，这样的不太多，哇哈哈',
+    author1: 'i5ting\n      ' },
+  { title: 'node5.0下，这算是bug吗？',
+    href: 'https://cnodejs.org/topic/5667d9af4a8dd3713ba4362d',
+    comment1: '这个跟node的版本没有半毛钱关系，是++运算符的问题。\n[1,2,3].reduce(function (prev, c) {return prev++}, 10)\n实际上是先return，后计算的值，不信可以做如下测试\nvar i=3;\nfunction test(){\n\treturn i++;\n}\n\nconsole.log(test());\nconsole.log(i);',
+    author1: 'yuyang041060120\n      ' },
+  { title: '社区里有人做过类似于bootstrap这样的基础样式库吗？',
+    href: 'https://cnodejs.org/topic/5665425a374362a006a1a597',
+    comment1: '复制粘贴改。',
+    author1: 'Hanggi\n      ' },
+  { title: '消息系统设计与实现「下篇」',
+    href: 'https://cnodejs.org/topic/56485dd8b68278b07f982804',
+    comment1: '~(≧▽≦)/~ 一定要赞。Mark 先',
+    author1: 'sqrthree\n      ' },
+  { title: '用NodeJS打造你的静态文件服务器',
+    href: 'https://cnodejs.org/topic/4f16442ccae1f4aa27001071',
+    comment1: '太帅了，好棒啊！\r\r唉，近两天安装npm一直没成功，无论是window还是ubuntu，我都快失去信心了~',
+    author1: 'anonymous\n      ' },
+  { title: '精华\n\n\n\n        Koa 还是 Express？',
+    href: 'https://cnodejs.org/topic/55815f28395a0c1812f18257',
+    comment1: 'koa用起来确实不错，简洁，有需要的中间件自己写起来也不麻烦，另外基于es6的generator和tj的co，代码里没有回调函数了，有很多现成的基于co的中间件，即使自己写的异步函数也可以通过thunkify包装下直接在koa里用',
+    author1: 'hwoarangzk\n      ' },
+  { title: '精华\n\n\n\n        node-debug 三法三例之node debugger + node inspector',
+    href: 'https://cnodejs.org/topic/5463f6e872f405c829029f7e',
+    comment1: '很有用，感谢！',
+    author1: 'think2011\n      ' },
+  { title: 'cluster怎么使用，在新版中不兼容吗，运行v4.2的版本时一次请求多次响应。',
+    href: 'https://cnodejs.org/topic/566677ca4a8dd3713ba435d7',
+    comment1: '我只想说，如果不是自己要进程间各种发消息通信什么的。\n还是用pm2算了。',
+    author1: 'luicfer\n      ' },
+  { title: '精华\n\n\n\n        惰性求值 与 Lodash',
+    href: 'https://cnodejs.org/topic/5667c7d45af0e6ab3bf1a19d',
+    comment1: '',
+    author1: null },
+  { title: 'express中如何读取远程的图片并显示出来?',
+    href: 'https://cnodejs.org/topic/56668c979749508e3ba6a514',
+    comment1: '试下 opts 里面加个 encoding: null',
+    author1: 'klesh\n      ' },
+  { title: '精华\n\n\n\n        小心buffer的拼接问题',
+    href: 'https://cnodejs.org/topic/4faf65852e8fb5bc65113403',
+    comment1: '学习之',
+    author1: 'jin52yang\n      ' } ]
+null

@@ -1,8 +1,8 @@
+//work now
 var eventproxy = require('eventproxy');
+var cheerio= require('cheerio');
 var superagent = require('superagent');
 var async = require('async');
-
-var cheerio= require('cheerio');
 
 var url = require('url');
 
@@ -36,45 +36,29 @@ superagent.get(cnodeUrl)
         console.log(items);
     })
     var i = 0;
-    async.eachLimit(topicUrls,35,function(thisUrl,callback){
+    async.eachLimit(topicUrls,5,function(thisUrl,callback){
         var order = i;
         i++;
         superagent.get(thisUrl)
-        .end(function(err,sres){
+        .end(function(err,res){
+            console.log(res.status)
             if(err){
                 console.log("err order="+order)
             }else{
                 console.log("not err order="+order)
             }
-            var $$ = cheerio.load(sres.text);
+            var $$ = cheerio.load(res.text);
             var ls = {
                 user: $$('#reply1 .user_info .dark').text(),
                 text: $$('#reply1 .reply_content .markdown-text').text(),
                 order: order
             }
             ep.emit('info',ls)
-        })
-        callback();
+            callback();
+        });
+    },function(err){
+         console.log(err);
     })
-
-    //for( var i = 0; i < topicUrls.length;i++){
-
-    //    (function(){
-    //        var order = i;
-    //        superagent.get(topicUrls[i])
-    //        .end(function(err,sres){
-    //            var $$ = cheerio.load(sres.text);
-    //            var ls = {
-    //                user: $$('#reply1 .user_info .dark').text(),
-    //                text: $$('#reply1 .reply_content .markdown-text').text(),
-    //                order: order
-    //            }
-    //            ep.emit('info',ls)
-    //        })
-
-    //    })()
-    //}
-
 })
 
 //app.listen
